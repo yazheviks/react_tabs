@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,KACE,YACF,CAEA,UACE,wBACF,CAEA,aACE,YACF","file":"main.4402ee7b.chunk.css","sourcesContent":["body {\n  padding: 20px;\n}\n\n.nav-link {\n  background-color: #dee2e6;\n}\n\nbutton:focus {\n  outline: none;\n}\n"]}
